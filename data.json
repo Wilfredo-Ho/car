@@ -1,0 +1,188 @@
+{
+	"memberList": {
+	    "message": "Execute success",
+	    "result": {
+	        "total": 3,
+	        "rows": [
+	            {
+	                "uid": 1,
+	                "uname": "123",
+	                "idcard": "123123123123",
+	                "sex": "nan",
+	                "age": 1,
+	                "driverNo": null,
+	                "idcard_photo_a": null,
+	                "idcard_photo_b": null,
+	                "driver_photo_a": null,
+	                "driver_photo_b": null,
+	                "phone": null,
+	                "upwd": "12414",
+	                "create_date": 1496653479000,
+	                "realName": null
+	            },
+	            {
+	                "uid": 2,
+	                "uname": null,
+	                "idcard": null,
+	                "sex": null,
+	                "age": 0,
+	                "driverNo": null,
+	                "idcard_photo_a": null,
+	                "idcard_photo_b": null,
+	                "driver_photo_a": null,
+	                "driver_photo_b": null,
+	                "phone": null,
+	                "upwd": null,
+	                "create_date": null,
+	                "realName": null
+	            },
+	            {
+	                "uid": 3,
+	                "uname": "123",
+	                "idcard": null,
+	                "sex": null,
+	                "age": 0,
+	                "driverNo": null,
+	                "idcard_photo_a": null,
+	                "idcard_photo_b": null,
+	                "driver_photo_a": null,
+	                "driver_photo_b": null,
+	                "phone": null,
+	                "upwd": "123",
+	                "create_date": null,
+	                "realName": null
+	            }
+	        ]
+	    },
+	    "executeResult": true
+	},
+	"memberVerify": {
+		"total": 10,
+		"rows": [
+			{
+				"id": 11,
+				"name": "electric Auto"
+			},
+			{
+				"id": 12,
+				"name": "electronic Auto"
+			}
+		]
+	},
+	"position": {
+		"init": [
+			{
+				"license": "津J4816AE",
+				"pnoNum": "61311006548969",
+				"state": "在线",
+				"gps_x": 116.307852,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AS",
+				"pnoNum": "61311006548988",
+				"state": "离线",
+				"gps_x": 116.307842,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AE",
+				"pnoNum": "61311006548969",
+				"state": "在线",
+				"gps_x": 116.307852,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AS",
+				"pnoNum": "61311006548988",
+				"state": "离线",
+				"gps_x": 116.307842,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AE",
+				"pnoNum": "61311006548969",
+				"state": "在线",
+				"gps_x": 116.307852,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AS",
+				"pnoNum": "61311006548988",
+				"state": "离线",
+				"gps_x": 116.307842,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AE",
+				"pnoNum": "61311006548969",
+				"state": "在线",
+				"gps_x": 116.307852,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AS",
+				"pnoNum": "61311006548988",
+				"state": "离线",
+				"gps_x": 116.307842,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AE",
+				"pnoNum": "61311006548969",
+				"state": "在线",
+				"gps_x": 116.307852,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AS",
+				"pnoNum": "61311006548988",
+				"state": "离线",
+				"gps_x": 116.307842,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AE",
+				"pnoNum": "61311006548969",
+				"state": "在线",
+				"gps_x": 116.307852,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AS",
+				"pnoNum": "61311006548988",
+				"state": "离线",
+				"gps_x": 116.307842,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AE",
+				"pnoNum": "61311006548969",
+				"state": "在线",
+				"gps_x": 116.307852,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AS",
+				"pnoNum": "61311006548988",
+				"state": "离线",
+				"gps_x": 116.307842,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AE",
+				"pnoNum": "61311006548969",
+				"state": "在线",
+				"gps_x": 116.307852,
+				"gps_y": 40.057031
+			},
+			{
+				"license": "津J4816AS",
+				"pnoNum": "61311006548988",
+				"state": "离线",
+				"gps_x": 116.307842,
+				"gps_y": 40.057031
+			}
+		]
+	}
+}
